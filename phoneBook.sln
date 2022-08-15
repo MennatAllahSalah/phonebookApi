@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "phoneBookDomain", "phoneBookDomain\phoneBookDomain.csproj", "{7C165AAF-5EBB-4F90-888A-BB3A55E14C49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7D55C123-E4F3-4928-AA9E-DA2EF22D7E22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8B59C975-9060-4230-9621-FC2D1DD5679F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{15246F0E-144B-4DF8-AE66-812C6443E9B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastructure", "{C1997F01-EB29-4DD2-BB55-7DF4120B4D11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{31F8D292-A877-461C-BD5C-32F9C8B64545}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ui", "Ui", "{7B219DCC-CAA2-4EFA-987C-29EDE1E63727}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "phoneBook.Application", "phoneBook.Application\phoneBook.Application.csproj", "{DF379DFC-5835-4E05-9395-37110A65F652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phoneBook.persistance", "phoneBook.persistance\phoneBook.persistance.csproj", "{619792AC-2D51-4012-B33A-61BF82049C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phoneBook.Api", "phoneBook.Api\phoneBook.Api.csproj", "{594BD3D9-58E9-46FD-84CA-26B352D79580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C165AAF-5EBB-4F90-888A-BB3A55E14C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C165AAF-5EBB-4F90-888A-BB3A55E14C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C165AAF-5EBB-4F90-888A-BB3A55E14C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C165AAF-5EBB-4F90-888A-BB3A55E14C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF379DFC-5835-4E05-9395-37110A65F652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF379DFC-5835-4E05-9395-37110A65F652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF379DFC-5835-4E05-9395-37110A65F652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF379DFC-5835-4E05-9395-37110A65F652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619792AC-2D51-4012-B33A-61BF82049C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619792AC-2D51-4012-B33A-61BF82049C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619792AC-2D51-4012-B33A-61BF82049C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619792AC-2D51-4012-B33A-61BF82049C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594BD3D9-58E9-46FD-84CA-26B352D79580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594BD3D9-58E9-46FD-84CA-26B352D79580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594BD3D9-58E9-46FD-84CA-26B352D79580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594BD3D9-58E9-46FD-84CA-26B352D79580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C165AAF-5EBB-4F90-888A-BB3A55E14C49} = {15246F0E-144B-4DF8-AE66-812C6443E9B8}
+		{15246F0E-144B-4DF8-AE66-812C6443E9B8} = {7D55C123-E4F3-4928-AA9E-DA2EF22D7E22}
+		{C1997F01-EB29-4DD2-BB55-7DF4120B4D11} = {7D55C123-E4F3-4928-AA9E-DA2EF22D7E22}
+		{31F8D292-A877-461C-BD5C-32F9C8B64545} = {7D55C123-E4F3-4928-AA9E-DA2EF22D7E22}
+		{7B219DCC-CAA2-4EFA-987C-29EDE1E63727} = {7D55C123-E4F3-4928-AA9E-DA2EF22D7E22}
+		{DF379DFC-5835-4E05-9395-37110A65F652} = {15246F0E-144B-4DF8-AE66-812C6443E9B8}
+		{619792AC-2D51-4012-B33A-61BF82049C5B} = {C1997F01-EB29-4DD2-BB55-7DF4120B4D11}
+		{594BD3D9-58E9-46FD-84CA-26B352D79580} = {31F8D292-A877-461C-BD5C-32F9C8B64545}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766CA305-5851-411A-B77C-CF0E5178C831}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\informatique\task\phoneBook\phoneBookDomain\bin\Debug\net5.0\phoneBookDomain.deps.json
+D:\informatique\task\phoneBook\phoneBookDomain\bin\Debug\net5.0\phoneBookDomain.dll
+D:\informatique\task\phoneBook\phoneBookDomain\bin\Debug\net5.0\ref\phoneBookDomain.dll
+D:\informatique\task\phoneBook\phoneBookDomain\bin\Debug\net5.0\phoneBookDomain.pdb
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.csproj.AssemblyReference.cache
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.AssemblyInfoInputs.cache
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.AssemblyInfo.cs
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.csproj.CoreCompileInputs.cache
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.dll
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\ref\phoneBookDomain.dll
+D:\informatique\task\phoneBook\phoneBookDomain\obj\Debug\net5.0\phoneBookDomain.pdb

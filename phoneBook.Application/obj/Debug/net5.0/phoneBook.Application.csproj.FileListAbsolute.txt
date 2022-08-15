@@ -1,0 +1,15 @@
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\phoneBook.Application.deps.json
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\phoneBook.Application.dll
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\ref\phoneBook.Application.dll
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\phoneBook.Application.pdb
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\phoneBookDomain.dll
+D:\informatique\task\phoneBook\phoneBook.Application\bin\Debug\net5.0\phoneBookDomain.pdb
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.csproj.AssemblyReference.cache
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.AssemblyInfoInputs.cache
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.AssemblyInfo.cs
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.csproj.CoreCompileInputs.cache
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.csproj.CopyComplete
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.dll
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\ref\phoneBook.Application.dll
+D:\informatique\task\phoneBook\phoneBook.Application\obj\Debug\net5.0\phoneBook.Application.pdb

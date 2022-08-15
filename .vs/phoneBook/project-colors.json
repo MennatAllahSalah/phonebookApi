@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c165aaf-5ebb-4f90-888a-bb3a55e14c49": {
+      "ProjectGuid": "7c165aaf-5ebb-4f90-888a-bb3a55e14c49",
+      "DisplayName": "phoneBookDomain",
+      "ColorIndex": 0
+    },
+    "df379dfc-5835-4e05-9395-37110a65f652": {
+      "ProjectGuid": "df379dfc-5835-4e05-9395-37110a65f652",
+      "DisplayName": "phoneBook.Application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

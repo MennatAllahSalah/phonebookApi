@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBamyleYrSGturYDL7BKqbdJTFmy1Z567yBr4EJLRMdSvD6h+Wiax4Njf4PV+kojHQC8bcJrC30vpPm2OYUeLA==",
+  "success": true,
+  "projectFilePath": "D:\\informatique\\task\\phoneBook\\phoneBookDomain\\phoneBookDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Menna\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Menna\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "C:\\Users\\Menna\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Identity.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Identity.EntityFramework 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Identity.EntityFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
